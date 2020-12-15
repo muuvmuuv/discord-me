@@ -1,4 +1,8 @@
-# Me Discord (WIP)
+<h1 align="center">
+  <img width="140" src="assets/logo.jpg" />
+  <br><br><p><b>Me Discord (WIP)</b></p>
+  <!-- tags and badges here -->
+</h1>
 
 > DO NOT USE YET
 
