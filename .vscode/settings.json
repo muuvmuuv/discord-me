@@ -1,0 +1,25 @@
+{
+  "editor.rulers": [
+    90
+  ],
+  "prettier.useEditorConfig": true,
+  "prettier.requireConfig": false,
+  "prettier.proseWrap": "always",
+  "prettier.enable": true,
+  "python.languageServer": "Pylance",
+  "python.linting.enabled": true,
+  "python.linting.pylintEnabled": false,
+  "python.linting.flake8Enabled": true,
+  "python.linting.flake8Args": [
+    "--max-line-length=90",
+    "--ignore=E722,E501,W503"
+  ],
+  "python.formatting.provider": "black",
+  "python.formatting.blackArgs": [
+    "--line-length=90",
+    "--target-version=py38"
+  ],
+  "files.exclude": {
+    "**/__pycache__": true
+  },
+}
